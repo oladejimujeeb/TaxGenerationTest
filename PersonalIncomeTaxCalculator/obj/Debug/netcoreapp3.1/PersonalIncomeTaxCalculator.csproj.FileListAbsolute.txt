@@ -1,0 +1,14 @@
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.exe
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.deps.json
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.runtimeconfig.json
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.runtimeconfig.dev.json
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.dll
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.pdb
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.AssemblyInfo.cs
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.dll
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.pdb
+C:\Users\OladejiMujib\source\repos\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\netcoreapp3.1\PersonalIncomeTaxCalculator.genruntimeconfig.cache
